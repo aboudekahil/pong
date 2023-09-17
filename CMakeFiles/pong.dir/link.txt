@@ -1,0 +1,1 @@
+/usr/sbin/c++  -Wall CMakeFiles/pong.dir/src/main.cpp.o -o build/pong  _deps/raylib-build/raylib/libraylib.a -lm -latomic -lpthread /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so _deps/raylib-build/raylib/external/glfw/src/libglfw3.a /usr/lib/librt.a -lm -ldl 
